@@ -14,7 +14,7 @@ What’s the best value for k when using the PCA data? Does it differ from the b
 
 <img src='Images/bestKPCA.png'>
 
-+The best value of k when using PCA data is 4, this is the same k value found without as when we did not apply PCA.
++ The best value of k when using PCA data is 4, this is the same k value found without as when we did not apply PCA.
 
 Based on visually analyzing the cluster analysis results, what’s the impact of using fewer features to cluster the data by using K-means?
 
